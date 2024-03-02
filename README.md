@@ -3,15 +3,14 @@
 - 🌱 Estudando Ánalise e desenvolvimento de sisitemas...
 - 😄 ele/dele
 
-<div align="center">
+<div>
   <a href="https://github.com/felipelpsdev"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelpsdev&layout=compact&langs_count=7&theme=merko"/>
 </div>
+    
+***
 
-***  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipelpsdev&show_icons=true&theme=merko)
-
-***  
 
 ## Languages and Web: <br>
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black)
@@ -20,6 +19,8 @@
 ![](https://img.shields.io/badge/-HTML-informational/?style=for-the-badge&logo=HTML5&color=darkorange&labelColor=black)
 ![](https://img.shields.io/badge/-CSS-informational/?style=for-the-badge&logo=CSS3&color=darkblue&labelColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 
 ## Database:
 ![](https://img.shields.io/badge/-MySQL-informational/?style=for-the-badge&logo=mysql&color=2584FF&labelColor=black)
@@ -27,6 +28,10 @@
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+
+## Systems:
+![](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 &nbsp;
 &nbsp;
