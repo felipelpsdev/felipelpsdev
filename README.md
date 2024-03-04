@@ -1,4 +1,4 @@
-### Olá! Eu sou Felipe Lopes👋
+### Olá! Eu sou Felipe👋
 
 - 🌱 Estudando Ánalise e desenvolvimento de sisitemas...
 - 😄 ele/dele
