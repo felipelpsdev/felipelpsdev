@@ -20,10 +20,9 @@
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ##
+
 <img src="coding.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-
-##
 ## Database:
 
 ![](https://img.shields.io/badge/-MySQL-informational/?style=for-the-badge&logo=mysql&color=2584FF&labelColor=black)
