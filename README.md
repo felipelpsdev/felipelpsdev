@@ -1,8 +1,6 @@
 ### Olá! Eu sou Felipe👋
 
-- 🌱 Estudando Ánalise e desenvolvimento de sisitemas...
-- 😄 ele/dele
-
+- 🌱 Estudando Ánalise e desenvolvimento de sistemas
 <div>
   <a href="https://github.com/felipelpsdev"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelpsdev&layout=compact&langs_count=7&theme=merko"/>
