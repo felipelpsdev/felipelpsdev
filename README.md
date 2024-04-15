@@ -3,13 +3,16 @@
 - 🌱 Estudando Ánalise e desenvolvimento de sistemas
 <div>
   <a href="https://github.com/felipelpsdev"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelpsdev&layout=compact&langs_count=7&theme=merko"/>
 </div>
+
+***
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipelpsdev&show_icons=true&theme=merko)
     
 ***
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipelpsdev&show_icons=true&theme=merko)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelpsdev&layout=compact&langs_count=7&theme=merko"/>
 
+***
 ## Languages and Web: <br>
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black)
 ![](https://img.shields.io/badge/-Python-informational/?style=for-the-badge&logo=python&color=blue&labelColor=black)
