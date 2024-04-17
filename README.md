@@ -3,15 +3,13 @@
 - 🌱 Estudando Ánalise e desenvolvimento de sistemas
 <div>
   <a href="https://github.com/felipelpsdev"/>
-</div>
-
 ***
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipelpsdev&show_icons=true&theme=merko)
     
 ***
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelpsdev&layout=compact&langs_count=7&theme=merko"/>
-
+</div>
 ***
 ## Languages and Web: <br>
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black)
