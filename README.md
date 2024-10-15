@@ -11,7 +11,7 @@
 
 ***
 
-<img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelpsdev&layout=compact&langs_count=7&theme=merko"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelpsdev&theme=merko"/>
 
 ***
 
