@@ -7,11 +7,9 @@
 
 ***
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipelpsdev&show_icons=true&theme=merko) 
 
 ***
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelpsdev&layout=compact&langs_count=7&theme=merko"/>
 
 ***
 
