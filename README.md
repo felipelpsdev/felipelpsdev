@@ -7,12 +7,11 @@
 
 ***
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipelpsdev&show_icons=true&theme=merko) 
+![Anurag's GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipelpsdev&show_icons=true&theme=transparent)) 
 
 ***
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelpsdev&theme=merko"/>
-
+![felipelpsdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipelpsdev&theme=dark&show_icons=true&hide_border=true&layout=compact)
 ***
 
 ## Languages and Web: <br>
@@ -23,6 +22,7 @@
 ![](https://img.shields.io/badge/-CSS-informational/?style=for-the-badge&logo=CSS3&color=darkblue&labelColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-C%2B%2B-blue%3Flogo%3Dcplusplus)
 
 ##
 
