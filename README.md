@@ -7,7 +7,7 @@
 
 ***
 
-![Anurag's GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipelpsdev&show_icons=true&theme=transparent)) 
+![felipelpsdev's Stats](https://github-readme-stats.vercel.app/api?username=felipelpsdev&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ***
 
