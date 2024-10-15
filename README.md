@@ -7,7 +7,7 @@
 
 ***
 
-![felipelpsdev's Stats](https://github-readme-stats.vercel.app/api?username=felipelpsdev&theme=dark&show_icons=true&hide_border=true&count_private=true)
+|![felipelpsdev's Stats](https://github-readme-stats.vercel.app/api?username=felipelpsdev&theme=dark&show_icons=true&hide_border=true&count_private=true) | ![felipelpsdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipelpsdev&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ***
 
@@ -22,9 +22,7 @@
 ![](https://img.shields.io/badge/-CSS-informational/?style=for-the-badge&logo=CSS3&color=darkblue&labelColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-
-##
+![](https://img.shields.io/badge/-C/C++-black?style=for-the-badge&logo=c&logoColor=white)
 
 <img src="coding.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
